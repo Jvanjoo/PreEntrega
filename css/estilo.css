@@ -1,0 +1,39 @@
+*{
+    padding:0;
+    margin:0;
+}
+@font-face{
+    font-family: "Poppins-Regular";
+    src: url(../font/Poppins-Regular.ttf)
+}
+.colorNav{
+    background-color: white
+}
+.titleColor{
+    color: black;
+}
+.principal{
+    text-align: center;
+}
+.tituloRed{
+    text-align: center;
+}
+.redFotos{
+    text-align: center;
+}
+.form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  
+  }
+.col img{
+    width: 450px;
+}
+footer{
+    background-color: #373430;
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
